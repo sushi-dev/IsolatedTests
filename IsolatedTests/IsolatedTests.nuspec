@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>James Prompanya (ch0p57ickz)</authors>
+    <owners>Sushi-Dev</owners>
+    <projectUrl>http://github.com/sushi-dev/IsolatedTests</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Initial Commit</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>Testing Timing</tags>
+  </metadata>
+</package>
